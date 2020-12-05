@@ -1,0 +1,27 @@
+
+.header1 {
+    color: green;
+	padding: 5%;
+	border: 100px;
+	margin: 10px;
+	font-size:30px;
+	background-image:url('images/ban6.jpeg');
+
+}
+
+body {
+    height:auto;
+	width:100%;
+padding:0px;
+border: 0px;
+	margin: 0px;
+	font-size:20px;
+	
+}
+img{ height:auto;
+width: 600px;
+	
+	
+}
+
+
